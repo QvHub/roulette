@@ -14,7 +14,11 @@ print("             *             ")
 print("///////////////////////////")
 print("")
 
-
+#                  #
+#                  #
+# F E A T U R  - 1 #
+#                  #
+#                  #
 
 #loop for play multiple round 
 while validation_game == True :
